@@ -9,7 +9,7 @@ $ git clone https://github.com/ddiem-ri-4D/MS_MathematicalMethods.git
 $ cd MS_MathematicalMethods
 ```
 
-### Implementing the Graph ADT in Python
+### Implementing the Graph ADT 
 
 ```
 $ python3 Graph.py
